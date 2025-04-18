@@ -19,7 +19,6 @@ API_KEY=your_groq_api_key_here
 
 # Install dependencies
 pip install -r requirements.txt
-n
 
 # Run server
 python manage.py runserver
